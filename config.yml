@@ -1,0 +1,11 @@
+wazo:
+  host: wazo_server # Your wazo server
+  port: 443
+  username: username # User with ACLs applications_call_entered, application_call_deleted
+  password: password
+  backend: wazo_user
+  application_uuid: application_uuid # The uuid of your application created
+player_name: quintana
+mobile: mobile_phone # Phone where you received call when you died
+context: default
+did: did # The did you want people call to go in your voice application for the game

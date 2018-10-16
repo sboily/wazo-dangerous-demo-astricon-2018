@@ -1,0 +1,8 @@
+git+https://github.com/wazo-pbx/xivo-lib-rest-client.git
+git+https://github.com/wazo-pbx/xivo-ctid-ng-client.git
+git+https://github.com/wazo-pbx/xivo-auth-client.git
+git+https://github.com/wazo-pbx/xivo-confd-client.git
+websocket-client
+pygame
+urllib3
+pyaml
