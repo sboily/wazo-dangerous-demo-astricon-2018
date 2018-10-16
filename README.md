@@ -1,12 +1,13 @@
 
 Game hacked for the dangerous demo at the Astricon 2018.
-The demo is available here: https://www.pscp.tv/w/1eaKbVgVLOBKX
+
+The video of the dangerous demo is available here: https://www.pscp.tv/w/1eaKbVgVLOBKX
 
 I won the entertaiment prize with this demo ;). Thank you to all who support me!
 
 Game has been found here: https://www.pygame.org/project/1885/3320
 
-It has been modified to use Wazo for generating aliens based on incoming call on our voice application programmable. It works with websocket and REST API from Wazo.
+It has been modified to use Wazo for generating aliens based on incoming call on our programmable voice application. It works with the websocket and REST API from Wazo.
 
 To install it:
 
