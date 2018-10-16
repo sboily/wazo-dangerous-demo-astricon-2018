@@ -1,7 +1,7 @@
 wazo:
   host: wazo_server # Your wazo server
   port: 443
-  username: username # User with ACLs applications_call_entered, application_call_deleted
+  username: username # User with ACLs applications_call_entered, applications_call_deleted
   password: password
   backend: wazo_user
   application_uuid: application_uuid # The uuid of your application created
